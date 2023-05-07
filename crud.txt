@@ -1,6 +1,9 @@
 //html doubts
-
+1)manamu html lo user dagara numchi input thisukovadaniki (iput tag vaduthamu) (iput tag lo two attributes main ga role play chesthumdhi 1)name ,value --(value variable user dhagara numchi collect chesukona data nee hold chesukovadaniki use chesthamu) (name variable ,vachil value variable numchi data nee thisunoni back end ki send chesthumdhi )
+2)name attribute we give for the tag which will take input from user.
+3)table headname or column name  equal ga vumtumdhi what we take name attribute name ) 
 //css doubts
-1)in which place we keep link tag in html before title tag or after titel tag 
+1)in which place we keep link tag in html before title tag or after titel tag .
+
 //js doubts
 1)in which place we keep script tag in html before body close tag or after body close tag 

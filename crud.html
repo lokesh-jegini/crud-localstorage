@@ -8,7 +8,32 @@
     <link rel="stylesheet" href="crud.css">
 </head>
 <body>
-    <h1>crud by local storage</h1>
+    <fieldset >
+        <legend>
+           <h2> Form</h2>
+        </legend>
+        <form action="" id="form">
+            <input type="text" id="name" placeholder="Enter Name" name="name"><br/><br/>
+             <input type="text" id="job" placeholder="Enter job" name="job"><br/><br/>
+              <input type="text" id="exp" placeholder="Enter Experience" name="Experience"><br/><br/>
+              <input type="button" onclick="datasubmit()" value="submit">
+              <input type="reset" value="reset">
+        </form>
+    </fieldset>
+    <div id="msg"></div>
+    <fieldset>
+        <legend>
+            <h2>data from local-storage</h2>
+        </legend>
+        <table>
+            <tr>
+                <th>Name</th>
+                <th>job</th>
+                <th>Experience</th>
+            </tr>
+            
+        </table>
+    </fieldset>
 </body>
 <script src="crud.js"></script>
 </html>
