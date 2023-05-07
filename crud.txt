@@ -1,0 +1,6 @@
+//html doubts
+
+//css doubts
+1)in which place we keep link tag in html before title tag or after titel tag 
+//js doubts
+1)in which place we keep script tag in html before body close tag or after body close tag 
