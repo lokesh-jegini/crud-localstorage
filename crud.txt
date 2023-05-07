@@ -7,3 +7,5 @@
 
 //js doubts
 1)in which place we keep script tag in html before body close tag or after body close tag 
+2)retive data (in reactjs setstatw we assign vale to the name like that)
+3)Note what is the use of name attribute in js
